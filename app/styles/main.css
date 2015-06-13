@@ -1,0 +1,101 @@
+body{
+  background-color: #2c3e50;
+  color:white;
+}
+.navbar{
+  background-color: #2c3e50;
+  border: 0;
+  height: 80px;
+}
+.container-fluid{
+  height: 80px
+}
+#toggleHome{
+  margin-top: 20px;
+  font-size: 40pt;
+  margin-left:80px;
+  color: white;
+  height: 60px;
+}
+#toggleChatBox{
+  margin-top: 20px;
+  font-size: 40pt;
+  margin-right: 80px;
+  color:white;
+  height: 60px;
+}
+#head{
+  text-align: center;
+  background-color: #3498db;
+  margin-right: 0px ;
+  margin-left: 0px;
+}
+
+#head h1{
+  font-size: 5em;
+  color:white;
+}
+#head a{
+  text-decoration: none;
+}
+#chatbox{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 20px;
+  height: 490px;
+  background-color: #3498db;
+  color:black;
+}
+#messagesDiv{
+  padding:20px;
+  padding-bottom: 10px;
+  font-size: 18pt;
+
+}
+#nameInput{
+  width: 25%;
+  height: 40px;
+  font-size: 18pt;
+}
+#messageInput{
+  width: 50%;
+  height: 40px;
+  font-size: 18pt;
+}
+#clear{
+  width: 20%;
+  height: 40px;
+  font-size: 14pt;
+}
+
+.box{
+  height: 150px;
+  width: 100%;
+  background-color: #3498db;
+  margin-top:20px;
+  font-size: 8em;
+  text-align: center;
+}
+#localPlay, #computerPlay{
+  background-color: #3498db;
+  height:100%;
+  font-size: 8em;
+  text-align: center;
+  margin-top: 20px;
+}
+#onlinePlay{
+  background-color: #3498db;
+  height:160px;
+  font-size: 4em;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#foot{
+  background-color: #3498db;
+  font-size: 2em;
+  margin-top: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
